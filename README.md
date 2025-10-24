@@ -45,10 +45,10 @@ Los datos recuperados desde Firebase.
 
 ##Ejemplo de salida
 
--pizarra tiene 91 años y es un Gato.
--pizarra Camina en 4 patas.
+-pizarra tiene 91 años y es un Gato
+-pizarra Camina en 4 patas
 -pizarra dice: ¡Miau Miau!
--Subido pizarra  a la base de datos.
+-Subido pizarra  a la base de datos
 
 -pizarra:
    -edad: 91
