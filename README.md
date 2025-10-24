@@ -25,13 +25,21 @@ Los datos recuperados desde Firebase.
 📂 Estructura del Proyecto
 .
 ├── animales/
+
 │   ├── Perro.py
+
 │   ├── Gato.py
+
 │   ├── Oso.py
+
 ├── firebase/
+
 │   └── firebase_config.py
+
 ├── AnimalVM.py
+
 ├── main.py
+
 └── README.md
 
 🧠 Ejemplo de salida
