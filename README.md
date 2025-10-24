@@ -22,7 +22,7 @@ El resultado de la subida a la base de datos.
 
 Los datos recuperados desde Firebase.
 
-📂 Estructura del Proyecto
+##📂 Estructura del Proyecto
 .
 
 ├── animales/
@@ -43,17 +43,16 @@ Los datos recuperados desde Firebase.
 
 └── README.md
 
-🧠 Ejemplo de salida
-"----------------------------------------
+##Ejemplo de salida
+
 pizarra tiene 91 años y es un Gato.
 pizarra Camina en 4 patas.
 pizarra dice: ¡Miau Miau!
 Subido pizarra  a la base de datos.
-----------------------------------------
-----------------------------------------
+
 pizarra:
    edad: 91
    especie: Gato
    nombre: pizarra
    raza: siames
-----------------------------------------"
+
