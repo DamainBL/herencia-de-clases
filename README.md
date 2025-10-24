@@ -44,7 +44,7 @@ Los datos recuperados desde Firebase.
 └── README.md
 
 🧠 Ejemplo de salida
-----------------------------------------
+"----------------------------------------
 pizarra tiene 91 años y es un Gato.
 pizarra Camina en 4 patas.
 pizarra dice: ¡Miau Miau!
@@ -56,4 +56,4 @@ pizarra:
    especie: Gato
    nombre: pizarra
    raza: siames
-----------------------------------------
+----------------------------------------"
