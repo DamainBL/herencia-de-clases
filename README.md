@@ -24,6 +24,7 @@ Los datos recuperados desde Firebase.
 
 📂 Estructura del Proyecto
 .
+
 ├── animales/
 
 │   ├── Perro.py
